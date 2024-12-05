@@ -1,5 +1,6 @@
 # Ovierviwe
 The project involves the efficient handling and storage of customer transaction data provided in CSV files. The company generates these CSV files every 5 minutes, containing basic data on various customer movements over a specific period. The task is to process this data and store it in a database, with additional steps to ensure data quality and proper tracking.
+
 ![](https://github.com/Eman2597/Telecom_ETL_using_SSIS/blob/main/Image/Dataset%20Description.PNG)
 ![](https://github.com/Eman2597/Telecom_ETL_using_SSIS/blob/main/Image/Requiretment.png)
 
